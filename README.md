@@ -4,7 +4,7 @@
 
 - **Step 1:** Clone the project:
 
-##### `git clone https://github.com/UngLH/library-management-fontend.git`
+    ##### `git clone https://github.com/UngLH/library-management-fontend.git`
 
 - **Step 2:** Install package for project
 
